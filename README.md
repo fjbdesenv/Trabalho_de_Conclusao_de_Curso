@@ -2,7 +2,9 @@
 
 ### Descrição: CLASSIFICAÇÃO DE RADIOGRAFIAS TORÁCICAS COM COVID-19 UTILIZANDO REDES NEURAIS CONVOLUCIONAIS
 
-### Autor: Fabio J. Barbosa, Alessandra M. Coelho, Matheus F. O. Baffa
+### Autor: Fábio Júnior Barbosa
+### Orientadora: Profa. Dra. Alessandra Martins Coelho
+### Coorientador: Matheus de Freitas Oliveira Baffa
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=fjbdesenv&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
